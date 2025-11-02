@@ -71,7 +71,7 @@ We must decide the k value by finding the point where there is a sudden drop in 
 in case of multiple sudden drops take the point which gives steep drop. 
 example : 
 <p align="center">
-  <img src="Screenshot 2025-11-02 122133.png" alt="Customer Clusters" width="600"/>
+  <img src="Screenshot 2025-11-02 122133.png" alt="Customer Clusters" width="200"/>
 </p>
 
 
@@ -90,3 +90,26 @@ High income, low spending
 High income, high spending
 
 These segments can help businesses better target customer groups with tailored marketing strategies.
+
+
+👥 Contributors
+
+Your Name — GitHub Profile
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+
+🪪 License
+
+This project is licensed under the MIT License.
+See the LICENSE
+ file for details.
+
+🔗 References
+
+Scikit-learn: K-Means Clustering : https://scikit-learn.org/stable/modules/clustering.html#k-means
+
+Kaggle: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+Matplotlib Documentation : https://matplotlib.org/stable/users/index.html
+
+Seaborn Documentation : https://seaborn.pydata.org/
