@@ -49,9 +49,9 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Vishalch118/Mall-Customer-Segmentation-Using-K---Means-Clustering
+git clone https://github.com/Vishalch118/Mall-Customer-Segmentation-Using-K-Means-Clustering
 # Navigate into the project directory
-cd Mall-Customer-Segmentation-Using-K---Means-Clustering
+cd Mall-Customer-Segmentation-Using-K-Means-Clustering
 
 # Install dependencies
 pip install -r requirements.txt
